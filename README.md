@@ -2,8 +2,6 @@
 
 ### Темы
 + [ООП](#ООП)
-
-
 + [JVM](#jvm) ![icon][done]
 + [Java Core](#java-core) ![icon][done]
 + [Java Collections Framework](#java-collections) ![icon][done]
