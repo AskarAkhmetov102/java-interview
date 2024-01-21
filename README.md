@@ -2,28 +2,27 @@
 
 ### Темы
 + [ООП](#ООП)
-+ [JVM](#jvm) ![icon][done]
-+ [Java Core](#java-core) ![icon][done]
-+ [Java Collections Framework](#java-collections) ![icon][done]
-+ [Java 8](#java-8) ![icon][done]
-+ [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) ![icon][done]
-+ [Сериализация](#Сериализация) ![icon][done]
-+ [Многопоточность](#Многопоточность) ![icon][done]
-+ [Servlets, JSP, JSTL](#servlets-jsp-jstl) ![icon][done]
-+ [Базы данных](#Базы-данных) ![icon][done]
-+ [SQL](#sql) ![icon][done]
-+ [JDBC](#jdbc) ![icon][done]
-+ [Тестирование](#Тестирование) ![icon][done]
-+ [Журналирование](#Журналирование) ![icon][done]
-+ [UML](#uml) ![icon][done]
-+ [XML](#xml) ![icon][done]
-+ [Шаблоны проектирования](#Шаблоны-проектирования) ![icon][done]
-+ [Основы HTML](#Основы-html) ![icon][done]
-+ [Основы CSS](#Основы-css) ![icon][done]
-+ [Основы Web](#Основы-web) ![icon][done]
-+ [Дополнительные материалы](#Дополнительные-материалы) ![icon][done]
-
-[done]:done.png
++ [Java Core](#Java-Core)
++ [Java Advanced Core](#Java-Advanced-Core)
++ [Java Collections Framework](#Java-Collections-Framework)
++ [JVM](#jvm) 
++ [Java 8](#java-8) 
++ [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) 
++ [Сериализация](#Сериализация) 
++ [Многопоточность](#Многопоточность) 
++ [Servlets, JSP, JSTL](#servlets-jsp-jstl) 
++ [Базы данных](#Базы-данных) 
++ [SQL](#sql) 
++ [JDBC](#jdbc) 
++ [Тестирование](#Тестирование) 
++ [Журналирование](#Журналирование) 
++ [UML](#uml) 
++ [XML](#xml) 
++ [Шаблоны проектирования](#Шаблоны-проектирования) 
++ [Основы HTML](#Основы-html) 
++ [Основы CSS](#Основы-css) 
++ [Основы Web](#Основы-web) 
++ [Дополнительные материалы](#Дополнительные-материалы)
 
 ## ООП
 + [Что такое ООП?](oop.md#Что-такое-ООП)
@@ -39,16 +38,6 @@
 + [Что такое "ассоциация", "композиция" и "агрегация"?](oop.md#Что-такое-ассоциация-композиция-и-агрегация)
 + [Что такое статическое и динамическое связывание?](oop.md#Что-такое-статическое-и-динамическое-связывание)
 + [Расскажите про SOLID](oop.md#Расскажите-про-SOLID)
-
-[к оглавлению](#Вопросы-для-собеседования-на-java-developer)
-
-## JVM
-+ [За что отвечает JVM](jvm.md#За-что-отвечает-JVM)
-+ [Classloader](jvm.md#Classloader)
-+ [Области данных времени выполнения](jvm.md#Области-данных-времени-выполнения)
-+ [Frames](jvm.md#Frames)
-+ [Execution Engine](jvm.md#Execution-Engine)
-+ [Полезные ссылки](jvm.md#Полезные-ссылки)
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
@@ -164,7 +153,10 @@
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
-## Java Collections
+## Java Advanced Core
+[к оглавлению](#Вопросы-для-собеседования-на-java-developer)
+
+## Java Collections Framework
 + [Что такое _«коллекция»_?](jcf.md#Что-такое-коллекция)
 + [Назовите основные интерфейсы JCF и их реализации.](jcf.md#Назовите-основные-интерфейсы-jcf-и-их-реализации)
 + [Расположите в виде иерархии следующие интерфейсы: `List`, `Set`, `Map`, `SortedSet`, `SortedMap`, `Collection`, `Iterable`, `Iterator`, `NavigableSet`, `NavigableMap`.](jcf.md#Расположите-в-виде-иерархии-следующие-интерфейсы-list-set-map-sortedset-sortedmap-collection-iterable-iterator-navigableset-navigablemap)
@@ -252,6 +244,16 @@
 + [Как одной строчкой преобразовать `ArrayList` в `HashSet`?](jcf.md#Как-одной-строчкой-преобразовать-arraylist-в-hashset)
 + [Сделайте `HashSet` из ключей `HashMap`.](jcf.md#Сделайте-hashset-из-ключей-hashmap)
 + [Сделайте `HashMap` из `HashSet<Map.Entry<K, V>>`.](jcf.md#Сделайте-hashmap-из-hashsetmapentryk-v)
+
+[к оглавлению](#Вопросы-для-собеседования-на-java-developer)
+
+## JVM
++ [За что отвечает JVM](jvm.md#За-что-отвечает-JVM)
++ [Classloader](jvm.md#Classloader)
++ [Области данных времени выполнения](jvm.md#Области-данных-времени-выполнения)
++ [Frames](jvm.md#Frames)
++ [Execution Engine](jvm.md#Execution-Engine)
++ [Полезные ссылки](jvm.md#Полезные-ссылки)
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
