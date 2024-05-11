@@ -3,7 +3,6 @@
 ### Темы
 + [ООП](#ООП)
 + [Java Core](#Java-Core)
-+ [Java Advanced Core](#Java-Advanced-Core)
 + [Java Collections Framework](#Java-Collections-Framework)
 + [JVM](#jvm) 
 + [Java 8](#java-8) 
@@ -149,9 +148,6 @@
 + [Что такое _generics_?](core.md#Что-такое-generics)
 + [Что такое _«интернационализация»_, _«локализация»_?](core.md#Что-такое-интернационализация-локализация)
 
-[к оглавлению](#Вопросы-для-собеседования-на-java-developer)
-
-## Java Advanced Core
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
 ## Java Collections Framework
